@@ -1,0 +1,14 @@
+C:\Users\brsen\Desktop\Curso C#\Curso C# Nelio Alves - Exercícios\Bank_Exceptions\Bank_Exceptions\bin\Debug\net7.0\Bank_Exceptions.exe
+C:\Users\brsen\Desktop\Curso C#\Curso C# Nelio Alves - Exercícios\Bank_Exceptions\Bank_Exceptions\bin\Debug\net7.0\Bank_Exceptions.deps.json
+C:\Users\brsen\Desktop\Curso C#\Curso C# Nelio Alves - Exercícios\Bank_Exceptions\Bank_Exceptions\bin\Debug\net7.0\Bank_Exceptions.runtimeconfig.json
+C:\Users\brsen\Desktop\Curso C#\Curso C# Nelio Alves - Exercícios\Bank_Exceptions\Bank_Exceptions\bin\Debug\net7.0\Bank_Exceptions.dll
+C:\Users\brsen\Desktop\Curso C#\Curso C# Nelio Alves - Exercícios\Bank_Exceptions\Bank_Exceptions\bin\Debug\net7.0\Bank_Exceptions.pdb
+C:\Users\brsen\Desktop\Curso C#\Curso C# Nelio Alves - Exercícios\Bank_Exceptions\Bank_Exceptions\obj\Debug\net7.0\Bank_Exceptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brsen\Desktop\Curso C#\Curso C# Nelio Alves - Exercícios\Bank_Exceptions\Bank_Exceptions\obj\Debug\net7.0\Bank_Exceptions.AssemblyInfoInputs.cache
+C:\Users\brsen\Desktop\Curso C#\Curso C# Nelio Alves - Exercícios\Bank_Exceptions\Bank_Exceptions\obj\Debug\net7.0\Bank_Exceptions.AssemblyInfo.cs
+C:\Users\brsen\Desktop\Curso C#\Curso C# Nelio Alves - Exercícios\Bank_Exceptions\Bank_Exceptions\obj\Debug\net7.0\Bank_Exceptions.csproj.CoreCompileInputs.cache
+C:\Users\brsen\Desktop\Curso C#\Curso C# Nelio Alves - Exercícios\Bank_Exceptions\Bank_Exceptions\obj\Debug\net7.0\Bank_Exceptions.dll
+C:\Users\brsen\Desktop\Curso C#\Curso C# Nelio Alves - Exercícios\Bank_Exceptions\Bank_Exceptions\obj\Debug\net7.0\refint\Bank_Exceptions.dll
+C:\Users\brsen\Desktop\Curso C#\Curso C# Nelio Alves - Exercícios\Bank_Exceptions\Bank_Exceptions\obj\Debug\net7.0\Bank_Exceptions.pdb
+C:\Users\brsen\Desktop\Curso C#\Curso C# Nelio Alves - Exercícios\Bank_Exceptions\Bank_Exceptions\obj\Debug\net7.0\Bank_Exceptions.genruntimeconfig.cache
+C:\Users\brsen\Desktop\Curso C#\Curso C# Nelio Alves - Exercícios\Bank_Exceptions\Bank_Exceptions\obj\Debug\net7.0\ref\Bank_Exceptions.dll
